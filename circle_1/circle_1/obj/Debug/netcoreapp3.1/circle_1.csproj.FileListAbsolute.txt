@@ -1,0 +1,15 @@
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.exe
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.deps.json
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.runtimeconfig.json
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.runtimeconfig.dev.json
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.dll
+E:\c#\circle_1\circle_1\bin\Debug\netcoreapp3.1\circle_1.pdb
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.csprojAssemblyReference.cache
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.Form1.resources
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.csproj.GenerateResource.cache
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.AssemblyInfoInputs.cache
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.AssemblyInfo.cs
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.csproj.CoreCompileInputs.cache
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.dll
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.pdb
+E:\c#\circle_1\circle_1\obj\Debug\netcoreapp3.1\circle_1.genruntimeconfig.cache

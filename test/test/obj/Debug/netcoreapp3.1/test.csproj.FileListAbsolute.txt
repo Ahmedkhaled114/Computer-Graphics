@@ -1,0 +1,15 @@
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.exe
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.dll
+E:\c#\test\test\bin\Debug\netcoreapp3.1\test.pdb
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.Form1.resources
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.csproj.GenerateResource.cache
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.dll
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.pdb
+E:\c#\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
